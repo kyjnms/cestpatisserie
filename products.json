@@ -1,0 +1,239 @@
+[
+    {
+        "id":1,
+        "name":"Lotus biscuit cake",
+        "price":121,
+        "image":"f1.jpg"
+    },
+
+    {
+        "id":2,
+        "name":"Carre Chocolat",
+        "price":171,
+        "image":"f2.jpg" 
+    },
+
+    {
+        "id":3,
+        "name":"Nuts n fruitssssss",
+        "price":60,
+        "image":"f3.jpg" 
+    },
+
+    {
+        "id":4,
+        "name":"Pine",
+        "price":90,
+        "image":"f4.jpg" 
+    },
+
+    {
+        "id":5,
+        "name":"Grapefruit greens",
+        "price":119,
+        "image":"f5.jpg" 
+    },
+
+    {
+        "id":6,
+        "name":"Pear round",
+        "price":128,
+        "image":"f6.jpg" 
+    },
+
+    {
+        "id":7,
+        "name":"Fraiser cake",
+        "price": 133,
+        "image":"f7.jpg" 
+    },
+
+    {
+        "id":8,
+        "name":"Tiramisuuuuuuu",
+        "price":120,
+        "image":"f8.jpg" 
+    },
+
+    {
+    "id":9,
+    "name":"Chocolate log cake",
+    "price":126,
+    "image":"f9.jpg" 
+    },
+
+    {
+    "id":10,
+    "name":"Strawberry pinky",
+    "price":29,
+    "image":"t1.jpg" 
+    },
+
+    {
+        "id":11,
+        "name":"Citron icy",
+        "price":32,
+        "image":"t2.jpg" 
+    },
+
+    {
+    "id":12,
+    "name":"OOPsy DAIsy",
+    "price":30,
+    "image":"t3.jpg" 
+    },
+
+    {
+    "id":13,
+    "name":"nuts",
+    "price":27,
+    "image":"t4.jpg" 
+    },
+
+    {
+    "id":14,
+    "name":"Mango turns",
+    "price":40,
+    "image":"t5.jpg" 
+    },
+
+    {
+    "id":15,
+    "name":"Walnuts",
+    "price":43,
+    "image":"t6.jpg" 
+    },
+
+    {
+    "id":16,
+    "name":"Berries bear",
+    "price":29,
+    "image":"t7.jpg" 
+    },
+
+    {
+    "id":17,
+    "name":"Coral red",
+    "price":30,
+    "image":"t8.jpg" 
+    },
+
+    {
+        "id":18,
+        "name":"Lotus biscuit macarons sets of 6",
+        "price":40,
+        "image":"m1.jpg" 
+    },
+
+    {
+        "id":19,
+        "name":"Tiramisu macarons sets of 6",
+        "price":45,
+        "image":"m2.jpg" 
+    },
+
+    {
+        "id":20,
+        "name":"Snowflakes macarons sets of 3",
+        "price":28,
+        "image":"m3.jpg" 
+    },
+
+    {
+        "id":21,
+        "name":"Black n white roses sets of 6",
+        "price":50,
+        "image":"m4.jpg" 
+    },
+
+    {
+        "id":22,
+        "name":"Gold flakes",
+        "price":16,
+        "image":"e1.jpg" 
+    },
+
+    {
+        "id":23,
+        "name":"Lemon",
+        "price":21,
+        "image":"e2.jpg" 
+    },
+
+    {
+        "id":24,
+        "name":"Coffee eclairs",
+        "price":14,
+        "image":"e3.jpg" 
+    },
+
+    {
+        "id":25,
+        "name":"Lavender blues",
+        "price":21,
+        "image":"e4.jpg"
+    },
+
+    {
+        "id":26,
+        "name":"Strawberry and pumpkin seed",
+        "price":12,
+        "image":"e5.jpg" 
+    },
+
+    {
+        "id":27,
+        "name":"Lotus syrup croissant",
+        "price":19,
+        "image":"n1.jpg" 
+    },
+
+    {
+        "id":28,
+        "name":"Strawberry cream",
+        "price":21,
+        "image":"n2.jpg" 
+    },
+
+    {
+        "id":29,
+        "name":"Chocolate berries",
+        "price":22,
+        "image":"n3.jpg" 
+    },
+
+    {
+        "id":30,
+        "name":"Swiss roll croissant with pumpkin seeds",
+        "price":20,
+        "image":"n4.jpg" 
+    },
+
+    {
+        "id":31,
+        "name":"White chocolate with reds",
+        "price":23,
+        "image":"n5.jpg" 
+    },
+
+    {
+        "id":32,
+        "name":"12 random christmas macarons",
+        "price":85,
+        "image":"c1.jpg" 
+    },
+
+    {
+        "id":33,
+        "name":"Whole sets of eclairs",
+        "price":98,
+        "image":"c2.jpg" 
+    },
+
+    {
+        "id":34,
+        "name":"Christmas cookies party",
+        "price":74,
+        "image":"c3.jpg" 
+    }
+]
